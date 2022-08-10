@@ -1,6 +1,7 @@
 # Data-Analytics_Project-01
 
-<img width="511" alt="Images" src="https://user-images.githubusercontent.com/104248739/183278933-691a0a9b-302c-4c8f-9312-f3d02c759d61.png">
+
+<img width="501" alt="Images" src="https://user-images.githubusercontent.com/104248739/184019018-a6d9896a-ec22-4582-b360-05b53bd23ab7.png">
 
 
 ## **Entertainment Data Analysis**
