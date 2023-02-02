@@ -1,10 +1,9 @@
-# Data-Analytics_Project-01
-
+## Dashboard Preview: 
 
 <img width="501" alt="Images" src="https://user-images.githubusercontent.com/104248739/184019018-a6d9896a-ec22-4582-b360-05b53bd23ab7.png">
 
 
-## **Entertainment Data Analysis**
+## **Entertainment Industries Data Analysis**
 
 #### **Overview:** <br />
 Media and entertainment has become an integrated part of the lives of people, meaning that people now a days are very enthusiastic about trying new content in terms of watching it and choosing it. <br />
